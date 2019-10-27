@@ -33,10 +33,12 @@
 }
 
 .Nav-Menu{
-  position: "relative";
-  display: "block";
+  position: relative;
 }
 
-.Slide-Menu{
-  position: "relative";
+.Side-Menu{
+  position: relative;
+  width: 100px;
+  height: 100vh;
+  border: 2px dotted red;
 }
