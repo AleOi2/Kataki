@@ -12,7 +12,7 @@ class Foot extends Component {
 
         return (
             <div style = { Foot }>
-
+                
             </div>
         )
     }

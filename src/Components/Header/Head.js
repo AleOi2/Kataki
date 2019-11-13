@@ -18,7 +18,7 @@ class Head extends Component {
         console.log('linear-gradient(' +  cor +  '10%, 90%, #000000 100%)')
         return (
             <div style = { Head }>
-                <ReactSVG src = './../../Images/Logo.svg'></ReactSVG>
+               teste
             </div>
         )
     }
